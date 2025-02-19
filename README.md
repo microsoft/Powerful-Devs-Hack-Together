@@ -51,14 +51,14 @@ For additional help with your hacks, you can drop by Office Hours. You can also 
 | Day/Time              | Link                    |
 | --------------------- | ------------------------ |
 | 2/18, 10:00 PM UTC / 02:00 PM PT   | [2/18 Office Hours](https://discord.gg/ChjW2YMq?event=1332387737722032128) |
-| 2/20, 9:00 AM UTC / 12:00 AM PT   | [2/20 Office Hours](https://discord.gg/xeCyF5Xy?event=1332388177293475894) |
+| 2/20, 9:00 AM UTC / 12:00 AM PT   | [2/20 Office Hours](https://discord.gg/ChjW2YMq?event=1332388177293475894) |
 
 #### Week 2: February 24th-28th
 
 | Day/Time              | Link                   |
 | --------------------- | ------------------------ |
-| 2/25, 10:00 PM UTC / 02:00 PM PT    | [2/25 Office Hours](https://discord.gg/xeCyF5Xy?event=1332388446324523068) |
-| 2/27, 09:00 AM UTC / 12:00 AM PT    | [2/27 Office Hours](https://discord.gg/xeCyF5Xy?event=1332388661194657864) |
+| 2/25, 10:00 PM UTC / 02:00 PM PT    | [2/25 Office Hours](https://discord.gg/ChjW2YMq?event=1332388446324523068) |
+| 2/27, 09:00 AM UTC / 12:00 AM PT    | [2/27 Office Hours](https://discord.gg/ChjW2YMq?event=1332388661194657864) |
 
 
 
