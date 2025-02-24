@@ -105,6 +105,10 @@ body:
       label: Badge validation
       description: In order to receive your badge, please fill out the following form - [Badge validation form](https://aka.us11.list-manage.com/subscribe?u=b3df03dd2b64a3bc8a2a200e8&id=4a558f9e2b). Every member on the team must submit this form to receive a badge. If you do not submit this form, you will not receive a badge. Please check this box to confirm all team members have submitted the badge distribution form.
       options:
-        - label: I verify that all of my team members have completed the badge validation form at aka.ms/PowerfulDevs/Badges.
+        - label: I verify that all of my team members have completed the badge validation form.
           required: true
-
+       label: Survey Completion
+      description: please fill out the powerful devs hack survey -  [Official Powerful Devs Hack Together feedback survey](https://aka.ms/Powerfuldevs/hack/survey). 
+      options:
+        - label: I verify that all of my team members have completed the Official Powerful Devs Hack Together feedback survey.
+          required: true
