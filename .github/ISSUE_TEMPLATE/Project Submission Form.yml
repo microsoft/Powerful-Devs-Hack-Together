@@ -107,8 +107,10 @@ body:
       options:
         - label: I verify that all of my team members have completed the badge validation form.
           required: true
+  - type: checkboxes
+      attributes:
        label: Survey Completion
-      description: please fill out the powerful devs hack survey -  [Official Powerful Devs Hack Together feedback survey](https://aka.ms/Powerfuldevs/hack/survey). 
-      options:
+       description: please fill out the powerful devs hack survey -  [Official Powerful Devs Hack Together feedback survey](https://aka.ms/Powerfuldevs/hack/survey). 
+       options:
         - label: I verify that all of my team members have completed the Official Powerful Devs Hack Together feedback survey.
           required: true
