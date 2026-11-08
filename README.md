@@ -80,7 +80,7 @@ Each winning team in the categories below will receive a cash prize of $550. ðŸ’
 * Best in Pages
 * Best in AI
 
-All hackathon participants who submit a project will receive a digital badge. In order to recieve the digital badge, all participants must submit this form: **[Badge Submission Form](https://aka.ms/PowerfulDevs/Badges)** by Feb 28th, 11:59PM PST. The GitHub handle must match the handle submitted in the Project Submission Form. 
+All hackathon participants who submit a project will receive a digital badge. In order to receive the digital badge, all participants must submit this form: **[Badge Submission Form](https://aka.ms/PowerfulDevs/Badges)** by Feb 28th, 11:59PM PST. The GitHub handle must match the handle submitted in the Project Submission Form. 
 
 
 ## Powerful Devs Resources: Samples
